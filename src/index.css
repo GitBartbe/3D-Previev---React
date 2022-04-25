@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(48deg, #292b99, #992085, #0904ce);
+  background-size: 600% 600%;
+  animation: AnimationName 30s ease infinite;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+}
