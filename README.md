@@ -8,7 +8,7 @@
 
 #  Purpose of this app
 
-Purpose of this app is to check knowlage of React Js, TS, React styled components. This task was also aimed at reading
+Purpose of this app is to check knowlage of React Js, TS and React styled components. This task was also aimed at reading
 documentation and implemet reqiurements to the app. This task was also to demonstrate the ability to apply the new technology - in this case three.js
 
 # Features 
